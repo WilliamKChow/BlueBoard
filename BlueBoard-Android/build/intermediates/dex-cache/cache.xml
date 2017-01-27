@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d66e39ab7fc09c1662eca4b91cc24b19a2a57582">
+        <dex dex="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7ae700b306a6e20dc255d230c8c73dd499608a61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_29452a0ff715381293a1d84a1bb088a943869db1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_ad728872fbf43bb5230173d412f66b3edf9de27b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_5cc9cd9dfa307a8a311374a48aee7c1f10c02402\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_c28b05aeb6df29c274a70106b42d1df49ae75716\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_563d430df9754987a44529f730b8d0ebe9955d77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_113eab73d859644d0036d7539281a1c3a07c9c44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_8ee3db8600ec0413724588a235172b2f292bca8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bee9532297d4d54e04bcfab70d42e04752233be">
+        <dex dex="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4f88359dc68179c719dfc1879c63b81e4baf8a1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_7b8fd879007e40c8ab023d3c1fa8ed00b6bac402\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jr\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_38bac9e5dde23d009af8cabb3d58cbbf015a197d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\jr\Desktop\blueboard\BlueBoard-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_40ec6f2f7f86c2a7437705d5f9617c39766dd621\classes.dex" />
+    </item>
+
+</items>

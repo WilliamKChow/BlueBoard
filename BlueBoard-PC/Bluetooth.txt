@@ -1,0 +1,12 @@
+key A
+key &
+key .
+key -
+key <Shift>
+key <Backspace>
+mouse LClick1
+mouse LClick0
+mouse 2LClick
+mouse RClick
+mouse Scroll 100
+mouse Move 100 100
